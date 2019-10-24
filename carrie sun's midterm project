@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>midterm-Carrie Sun's optical shop</title>
+<style>
+   body {text-align: center;}
+   </style>
+</head>
+
+<body>
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Carrie sun's Optical Store</title>
+</head>
+
+<body style="background-color:#EEEEEE">
+
+<h1 style="color:#B30A0D;font-size:90px"><i>Carrie sun's Optical Store</i></h1>
+
+<p style="font-size:55px; color:#094B8C"><b>HOME PAGE</b></p>
+
+<a href="background information.html" style="font-size: 30px">Background Information</a>
+<br>
+<a href="products.html" style="font-size: 30px">Products</a>
+<br>
+<a href="registration to become a vip member.html" style="font-size: 30px">Registration to be our VIP member</a>
+<br>
+<br>
+<br>
+<video src="2018春夏眼镜系列广告大片_腾讯视频.mp4" width="640" height="480" poster="屏幕快照 2019-10-18 下午8.51.15.png" controls autoplay></video>
+
+<br><br>
+<p align="center">All content copyright &copy; 2019, Carrie sun</p>
+
+</body>
+</html>
+
+</body>
+</html>
